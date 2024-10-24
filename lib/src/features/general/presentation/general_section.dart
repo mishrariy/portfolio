@@ -24,10 +24,10 @@ class GeneralSection extends ConsumerWidget {
               desktop: GeneralDesktop(),
               tablet: GeneralTablet(),
             ),
-            Align(
-              alignment: Alignment.bottomCenter,
-              child: BottomBanner(),
-            )
+            // Align(
+            //   alignment: Alignment.bottomCenter,
+            //   child: BottomBanner(),
+            // )
           ],
         ),
       ),
