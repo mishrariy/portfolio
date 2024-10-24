@@ -1,43 +1,36 @@
 {
-    "name": "Aladdine Abdou",
-    "description": "Mobile App Developer",
-    "subDescription": "Flutter & Python Enthusiast",
+    "name": "Riya Mishra",
+    "description": "Big Data Analytics & Computer Engineer",
+    "subDescription": "Machine Learning & AI Specialist",
+
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/mishrariy?tab=repositories",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "Twitter",
-            "url": "https://twitter.com/AladdineDev",
-            "icon": {
-                "codePoint": "0xf0ea",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "https://www.linkedin.com/in/riya-mishra-9440ab1a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "riyamishra1018@gmail.com",
+            "url": "mailto:riyamishra1018@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+91 95868 71676",
+            "url": "tel:+91 95868 71676",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome"
@@ -47,37 +40,22 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
-        },
-        {
-            "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/17phQiTZaxZTOv_PeCBI4UETgV8xw1GPB/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Hi! I'm Aladdine, an apprentice developer and fourth-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical experience to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.",
+    "aboutDescription": "Hi! I'm Riya Mishra, a Computer Engineering graduate from Silver Oak University, now pursuing a Post Graduate Diploma in Big Data Analytics at Adani Institute. I have a strong foundation in data science and machine learning, with practical experience in developing AI-powered solutions and real-time data analysis systems. Passionate about leveraging big data and AI technologies, I am constantly expanding my expertise in data analytics, computer vision, and cloud services. I am driven to apply my skills to solve real-world challenges and contribute to impactful projects in a collaborative environment."
+,
     "experiences": [
         {
-            "role": "Mobile App Developer",
-            "company": "Walt Disney Imagineering",
-            "description": "Development of an offline-first mobile snagging application for Disneyland Paris, streamlining information gathering for technical experts in the field and enhancing communication with maintenance services for problem-solving.",
-            "isPresent": false,
-            "startYear": 2022,
-            "endYear": 2023,
+            "role": "Python with AI Developer Intern",
+            "company": "Softvan Pvt Ltd",
+            "description": "Developed an AI-powered application to enhance security and operational efficiency through pre-incident detection and real-time surveillance. Trained models on custom datasets to detect individuals, differentiate covered/uncovered faces, and identify weapons using YOLO. Successfully integrated the system for practical real-time use in monitoring and detecting potential threats.",
+            "startYear": 2024,
+            "endYear": 2024,
             "technologies": [
+                
                 {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "Django",
+                    "name": "Flask",
                     "icon": {
                         "codePoint": "0xeee7",
                         "fontFamily": "BoxIcons"
@@ -90,298 +68,72 @@
                     }
                 },
                 {
-                    "name": "PostgreSQL",
+                    "name": "YOLO",
                     "icon": {
-                        "assetName": "assets/icons/software-development/postgresql.svg"
+                        "assetName": "assets/icons/software-development/yolo.svg"
                     }
                 },
                 {
-                    "name": "SQLite",
+                    "name": "OpenCV",
                     "icon": {
-                        "codePoint": "0xe944",
-                        "fontFamily": "OctIcons"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                },
-                {
-                    "name": "AWS",
-                    "icon": {
-                        "codePoint": "0xeed1",
-                        "fontFamily": "BoxIcons"
-                    }
-                }
+                        "assetName": "assets/icons/software-development/opencv.svg"
+                    }}
             ],
             "links": [
                 {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
+                    "url": "https://softvan.in/",
                     "display": "Walt Disney Imagineering"
                 }
             ]
-        },
-        {
-            "role": "Mobile App Developer",
-            "company": "Solutions Multi Techniques",
-            "description": "Development of a Progressive Web App for security system technicians, enabling them to generate comprehensive PDF quotes. This allows for the immediate delivery of quotes to clients after their visit, thereby increasing the conversion rate.",
-            "startYear": 2022,
-            "startMonth": 1,
-            "endYear": 2022,
-            "endMonth": 2,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "Firebase",
-                    "icon": {
-                        "assetName": "assets/icons/other/firebase.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "role": "Web Developer",
-            "company": "Association FAIRE",
-            "description": "Development of the association's website, in collaboration with a group of developers. It provides visitors with the opportunity to learn more about the association and become members.\nTo date, the website has attracted over 10,000 visits.",
-            "startYear": 2021,
-            "startMonth": 5,
-            "endYear": 2021,
-            "endMonth": 6,
-            "technologies": [
-                {
-                    "name": "HTML",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/html-5.svg"
-                    }
-                },
-                {
-                    "name": "CSS",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/css3.svg"
-                    }
-                },
-                {
-                    "name": "Javascript",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/javascript.svg"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://www.association-faire.fr",
-                    "display": "Association FAIRE"
-                }
-            ]
         }
+       
+               
     ],
-    "present": "Present",
     "projects": [
         {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "name": "Empty Shelf Detection",
+            "description": "Developed a real-time shelf monitoring application that detects empty or understocked shelves using computer vision and machine learning. The system sends notifications to store personnel, helping optimize inventory management and enhance customer satisfaction. Implemented using advanced image processing techniques and real-time data analytics.",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/portfolio.png",
+            "screenshotPath": "assets/images/shelf_image.jpg" ,
             "technologies": [
                 {
-                    "name": "Flutter",
+                    "name": "Python",
                     "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
-                }
-            ]
-        },
-        {
-            "name": "Learn Flow API",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
-            "url": "https://github.com/AladdineDev/learnflow-api#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/learnflow-api.png",
-            "technologies": [
-                {
-                    "name": "Node.js",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/nodejs.svg"
-                    }
-                },
-                {
-                    "name": "Express",
-                    "icon": {
-                        "assetName": "assets/icons/other/express-js.svg",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "TypeScript",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/typescript.svg"
-                    }
-                },
-                {
-                    "name": "MongoDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mongodb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
+                        "assetName": "assets/icons/software-development/python.svg"
                     }
                 }
             ]
         },
         {
-            "name": "Learn Flow Backoffice",
-            "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "name": "Vigilance 360",
+            "description": "Developed an AI-powered surveillance application to enhance security by detecting covered/uncovered faces and weapons using YOLO. The system was designed to offer real-time monitoring and threat detection in sensitive areas. It contributed significantly to operational efficiency and security protocols.",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "screenshotPath": "assets/images/security.jpg",
             "technologies": [
                 {
-                    "name": "Flutter",
+                    "name": "YOLO",
                     "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
+                        "assetName": "assets/icons/software-development/yolo.svg"
                     }
                 },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
-            "technologies": [
-                {
-                    "name": "Symfony",
-                    "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
-            "technologies": [
                 {
                     "name": "Flask",
                     "icon": {
-                        "assetName": "assets/icons/software-development/flask.svg",
-                        "color": "0xffffffff"
+                        "assetName": "assets/icons/software-development/Flask.svg"
                     }
                 },
                 {
                     "name": "Python",
                     "icon": {
                         "assetName": "assets/icons/software-development/python.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
                     }
                 }
             ]
@@ -394,14 +146,6 @@
             "nativeName": "English",
             "icon": {
                 "assetName": "assets/icons/flags/united-states-of-america.svg"
-            }
-        },
-        {
-            "code": "fr",
-            "name": "French",
-            "nativeName": "Français",
-            "icon": {
-                "assetName": "assets/icons/flags/france.svg"
             }
         }
     ],
@@ -419,5 +163,6 @@
     "resume": "Resume",
     "downloadResume": "Download resume",
     "openUrlError": "Could not open the url",
-    "unknownLanguageError": "Language unknown"
+    "unknownLanguageError": "Language unknown",
+    "present": "Present"
 }
